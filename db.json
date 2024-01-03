@@ -1,73 +1,26 @@
 {
   "users": [
     {
-      "id": 0,
-      "userId": "admin@the-51.com",
-      "password": "1234",
-      "name": "admin",
-      "Reservations": [],
-      "PostWritten": [],
-      "subscribed": []
-    },
-    {
       "id": 1,
-      "userId": "hongsh@the-51.com",
-      "password": "1234",
-      "name": "홍성호",
-      "Reservations": [],
-      "PostWritten": [],
-      "subscribed": []
+      "email": "the51@the-51.com",
+      "password": "qwer1234",
+      "name": "the51",
+      "note": 12,
+      "searchList": [
+        { "item": "Product Idea", "route": "Home" },
+        { "item": "Monthly Buying List", "route": "Home" }
+      ]
     },
     {
       "id": 2,
-      "userId": "bchoi@the-51.com",
+      "email": "test@the-51.com",
       "password": "1234",
-      "name": "최봄",
-      "Reservations": [],
-      "PostWritten": [],
-      "subscribed": []
-    },
-    {
-      "id": 3,
-      "userId": "jhbae@the-51.com",
-      "password": "1234",
-      "name": "배정현",
-      "Reservations": [],
-      "PostWritten": [],
-      "subscribed": []
-    },
-    {
-      "id": 4,
-      "userId": "ybjeong@the-51.com",
-      "password": "1234",
-      "name": "정영빈",
-      "Reservations": [],
-      "PostWritten": [],
-      "subscribed": []
-    },
-    {
-      "id": 5,
-      "userId": "chulsoo@the-51.com",
-      "password": "1234",
-      "name": "배철수",
-      "Reservations": [],
-      "PostWritten": [],
-      "subscribed": []
-    },
-    {
-      "id": 6,
-      "userId": "hyejin@the-51.com",
-      "password": "1234",
-      "name": "김혜진",
-      "Reservations": [],
-      "PostWritten": [],
-      "subscribed": []
+      "name": "test",
+      "note": 0,
+      "searchList": [
+        { "item": "test", "route": "Home" },
+        { "item": "test132", "route": "Home" }
+      ]
     }
-  ],
-  "posts": [
-
-  ],
-  "comment": [
-
   ]
 }
